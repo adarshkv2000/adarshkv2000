@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarshkv2000
-- 👀 I’m interested in Backend (SQL,JS,Python)
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Engineering (SQL, Python)
+- 🌱 I’m currently learning Python & SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
